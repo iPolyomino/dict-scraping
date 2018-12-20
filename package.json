@@ -1,0 +1,16 @@
+{
+  "name": "dict-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "delay": "^4.1.0",
+    "eslint": "^5.10.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.3",
+    "puppeteer": "^1.11.0"
+  }
+}
