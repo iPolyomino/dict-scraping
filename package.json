@@ -7,10 +7,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "delay": "^4.1.0",
-    "eslint": "^5.10.0",
-    "eslint-plugin-prettier": "^3.0.0",
-    "prettier": "^1.15.3",
-    "puppeteer": "^1.11.0"
+    "delay": "^4.3.0",
+    "eslint": "^7.1.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.5",
+    "puppeteer": "^3.1.0"
   }
 }
